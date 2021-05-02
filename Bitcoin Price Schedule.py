@@ -4,8 +4,6 @@ import requests
 import json
 import os
 import stat
-from crontab import CronTab
-
 
 
 st = os.stat('Bitcoin Price Schedule.py')
